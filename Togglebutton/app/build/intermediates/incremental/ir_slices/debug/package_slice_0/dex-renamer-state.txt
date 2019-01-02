@@ -1,0 +1,4 @@
+#Wed Jan 02 17:17:21 IST 2019
+base.0=/Users/ideabytes/Desktop/android/Togglebutton/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
